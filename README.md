@@ -12,3 +12,4 @@ List of all the algorithms -
   - [Multiple Linear Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Multiple%20Linear%20Regression)
   - [Polynomial Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Polynomial%20Regression)
   - [Support Vector Regression (SVR)](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Support%20Vector%20Regression)
+  - [Decision Tree Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Decision%20Tree%20Regression)
