@@ -14,3 +14,5 @@ List of all the algorithms -
   - [Support Vector Regression (SVR)](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Support%20Vector%20Regression)
   - [Decision Tree Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Decision%20Tree%20Regression)
   - [Random Forest Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Random%20Forest%20Regression)
+- Classification
+  - [Logistic Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Logistic%20Regression)
