@@ -16,3 +16,4 @@ List of all the algorithms -
   - [Random Forest Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Regression/Random%20Forest%20Regression)
 - Classification
   - [Logistic Regression](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Logistic%20Regression)
+  - [K-Nearest Neighbours(K-NN)](<https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/K-Nearest%20Neighbours%20(K-NN)>)
