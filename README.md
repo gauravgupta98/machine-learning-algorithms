@@ -21,3 +21,4 @@ List of all the algorithms -
   - [Kernel SVM](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Kernel%20SVM)
   - [Naive Bayes](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Naive%20Bayes)
   - [Decision Tree Classification](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Decision%20Tree)
+  - [Random Forest Classification](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Random%20Forest)
