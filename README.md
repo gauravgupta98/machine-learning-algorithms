@@ -20,3 +20,4 @@ List of all the algorithms -
   - [Support Vector Machine(SVM)](<https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Support%20Vector%20Machine%20(SVM)>)
   - [Kernel SVM](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Kernel%20SVM)
   - [Naive Bayes](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Naive%20Bayes)
+  - [Decision Tree Classification](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Decision%20Tree%20Classification)
