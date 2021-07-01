@@ -19,3 +19,4 @@ List of all the algorithms -
   - [K-Nearest Neighbours(K-NN)](<https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/K-Nearest%20Neighbours%20(K-NN)>)
   - [Support Vector Machine(SVM)](<https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Support%20Vector%20Machine%20(SVM)>)
   - [Kernel SVM](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Kernel%20SVM)
+  - [Naive Bayes](https://github.com/gauravgupta98/machine-learning-algorithms/tree/master/src/Classification/Naive%20Bayes)
